@@ -1,6 +1,6 @@
 import { StyleSheet, View } from "react-native";
 
-import { FrameEditor } from "@/components/FrameEditor";
+import { FrameEditor } from "@/components/frame-edit";
 
 export default function HomeScreen() {
   return (

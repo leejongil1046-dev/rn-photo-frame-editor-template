@@ -1,7 +1,7 @@
 import { Canvas, Fill, Rect } from "@shopify/react-native-skia";
 import { useWindowDimensions } from "react-native";
 
-import { mockFrame } from "@/data/mockFrame";
+import { mockFrame } from "@/data/mock-frame";
 
 export function FrameEditor() {
   const { width: screenWidth } = useWindowDimensions();
